@@ -1,2 +1,2 @@
 # Seafoods
-Magento Commerce
+Magento e-Commerce project
